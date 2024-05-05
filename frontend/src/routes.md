@@ -1,0 +1,10 @@
+Please find your relevant routes for the subsystem
+       ="/inventory-management" 
+       ="/customer-order" 
+       ="/finance-management" 
+       ="/hr-management" 
+       ="/inventory-management" 
+       ="/manufacturing" 
+       ="/quality-assurance" 
+       ="/sales-management" 
+        "/training-simulation"
